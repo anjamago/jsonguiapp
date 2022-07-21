@@ -1,12 +1,12 @@
-{
-  "Monteria":{
+
+  [{
     "nombre":"MEMORIAS DEL SINÚ - MONTERÍA",
    "acercaDe":"En este recorrido se podrá disfrutar de la naturaleza e historia entorno al río Sinú realizando caminatas matutinas o vespertinas por el parque lineal Ronda del Sinú a orillas del río y encontrarse con una diversidad de flora de bosque seco tropical y fauna silvestre de la zona como iguanas, perezosos, ardillas y monos colorados aulladores. Así mismo, a una hora de Montería se podrá encontrar el municipio de Santa Cruz de Lorica, primera capital del departamento de Córdoba, donde el visitante podrá observar los vestigios históricos del desarrollo político y comercial del departamento.",
   "img":"https://www.elheraldo.co/sites/default/files/articulo/2020/07/07/monteria.jpg"
      },
-  "SanBernardo":{
+  {
     "nombre":"AGUAS Y COLORES - SAN BERNARDO DEL VIENTO",
     "acercaDe": "Durante este circuito turístico, el visitante podrá interactuar con diferentes recursos acuáticos; en el municipio de San Bernardo del Viento, zona costanera del departamento de Córdoba, se puede realizar un recorrido por el majestuoso Río Sinú, hacia la desembocadura en Boca de Tinajones, pero 12 kilómetros antes, al ingresar por la antigua desembocadura de este afluente hace más de 60 años, se encuentra un lugar mágico donde se mezcla la naturaleza, un cuerpo de agua llamado Caño Grande.",
     "img":"https://colombiaenimagenes.files.wordpress.com/2012/06/san_bernardo_del_viento_2.jpg"
-  }
-}
+  }]
+
