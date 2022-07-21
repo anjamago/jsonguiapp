@@ -1,0 +1,177 @@
+{
+   "nombre":"MEMORIAS DEL SINÚ - LORICA",
+   "acercaDe":"En este recorrido se podrá disfrutar de la naturaleza e historia entorno al río Sinú realizando caminatas matutinas o vespertinas por el parque lineal Ronda del Sinú a orillas del río y encontrarse con una diversidad de flora de bosque seco tropical y fauna silvestre de la zona como iguanas, perezosos, ardillas y monos colorados aulladores. Así mismo, a una hora de Montería se podrá encontrar el municipio de Santa Cruz de Lorica, primera capital del departamento de Córdoba, donde el visitante podrá observar los vestigios históricos del desarrollo político y comercial del departamento.",
+   "recorrido":[
+      {
+         "nombre":"Inicio Recorrido - Málecón",
+         "latlong":[
+            9.2265592,-75.8224193,18
+         ],
+         "texto":"Inicialmente se conocía como “Plaza de la Ermita” porque había una pequeña ermita en sus alrededores. Su construcción dio inicio en 1930 y se culminó en 1939. Tiene 600 m2 aproximadamente y es un obelisco de siete metros de altura que en su cúspide mantiene un águila como figura representativa de la majestuosidad y la autoridad que ha venido a constituirse en una de las principales imágenes y símbolos de marca de Lorica. Se localiza en el mismo lugar donde el almirante José Prudencio Padilla liberó definitivamente a Santa Cruz de Lorica del régimen español en 1821. Es un sitio de encuentro que se ha utilizado históricamente para realizar actos culturales políticos y populares porque el área lo permite además por ser área representativa por la existencia del obelisco en el subconsciente popular se siente la necesidad de utilizarlo cuando llegan personalidades a la plaza pública como presidentes de la república y otros de alto rango.",
+         "fuente":"ALCALDÍA MUNICIPAL DE LORICA. Guion para la Información Turística del Municipio de Lorica (2017).ALCALDÍA MUNICIPAL DE LORICA. Plan Especial de Manejo y Protección del Centro Histórico de Lorica (PEMP): Prediagnóstico (2012).GOBERNACIÓN DE CÓRDOBA. Inventario Turístico Departamental (2009).",
+         "categoria":"inicio",
+         "assets":[
+            {
+               "recurso":"Inicialmente se conocía como “Plaza de la Ermita” porque había una pequeña ermita en sus alrededores. Su construcción dio inicio en 1930 y se culminó en 1939. Tiene 600 m2 aproximadamente y es un obelisco de siete metros de altura que en su cúspide mantiene un águila como figura representativa de la majestuosidad y la autoridad que ha venido a constituirse en una de las principales imágenes y símbolos de marca de Lorica. Se localiza en el mismo lugar donde el almirante José Prudencio Padilla liberó definitivamente a Santa Cruz de Lorica del régimen español en 1821. Es un sitio de encuentro que se ha utilizado históricamente para realizar actos culturales políticos y populares porque el área lo permite además por ser área representativa por la existencia del obelisco en el subconsciente popular se siente la necesidad de utilizarlo cuando llegan personalidades a la plaza pública como presidentes de la república y otros de alto rango.",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ] 
+      },
+      {
+         "nombre":"Mural del Malecón",
+         "latlong":[
+            9.2262177,-75.8213397,19
+         ],
+         "texto":"Mural en cerámica de arcilla industrializada tipo relieve de 8 mts de ancho por 125mts de alto. Ubicado sobre el Malecón del Sinú y construido por escultor loriquero Adriano Ríos Sossa. Cuenta la historia de Santa Cruz de Lorica de los últimos años recreando mediante el arte hechos relevantes situaciones cotidianas y apartes de la historia como la fábrica de jabones El Angelito y el jarabe de la Farmacia León los almacenes árabes y las tiendas de judíos como se les denominaba. Están recreados el médico y etnólogo de reconocido Manuel Zapata Olivella y un poema de su sobrino Alexis Zapata que le rinde homenaje. A su lado el doctor Díaz Díaz lleva en la mano una carpeta de abogado anunciando que el progreso le ha salido caro a Lorica pues precisamente a partir de las nuevas carreteras y de la creación del departamento esta ciudad próspera de principio de siglo fue quedando vacía y rezagada entre otros sucesos históricos que marcaron a Lorica.",
+         "fuente":"ALCALDÍA MUNICIPAL DE LORICA. Guion para la Información Turística del Municipio de Lorica (2017).",
+         "categoria":"Mural",
+         "assets":[
+            {
+               "recurso":"assets/sonidos/lorica/mural-malecon-lorica.mp3",
+               "tipo":"audio",
+               "descripcion":"Esta la opción de que el usario lea y esta la opción de que el usuario escuhe el audio. Esto es diferente al speaking"
+            }
+         ] 
+      },
+      {
+         "nombre":"Plazoleta Manuel Zapata Olivella:",
+         "latlong":[
+            9.2268728,-75.8195884
+         ],
+         "texto":"Mural en piezas de cerámica de 20 x 20 centímetros a todo color que refleja pasajes de la vida y obra de los importantes escritores loriqueros como Manuel Zapata Olivella y David Sánchez Juliao destacándose dos personajes creados por este último como El Pachanga y El Flecha de los cuales se muestran algunas imágenes de ellos y relativas al entorno en que se movían los personajes. También se muestran aspectos del territorio como los caimanes del río pájaros y aves y ecosistema de manglares aunque este último no es propio del territorio del municipio.",
+         "fuente":"",
+         "categoria":"Plazoleta",
+         "assets":[
+            {
+               "recurso":"Mural en piezas de cerámica de 20 x 20 centímetros a todo color que refleja pasajes de la vida y obra de los importantes escritores loriqueros como Manuel Zapata Olivella y David Sánchez Juliao destacándose dos personajes creados por este último como El Pachanga y El Flecha de los cuales se muestran algunas imágenes de ellos y relativas al entorno en que se movían los personajes. También se muestran aspectos del territorio como los caimanes del río pájaros y aves y ecosistema de manglares aunque este último no es propio del territorio del municipio.",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ] 
+      },
+      {
+         "nombre":"Catedral Santa Cruz de Lorica",
+         "latlong":[
+            9.2268728,-75.8195884
+         ],
+         "texto":"Esta edificación data del Siglo XIX inicialmente era una iglesia tradicional pero con la intervención del padre Lácides C. Bersal quien gozó de reconocimiento departamental adquirió características arquitectónicas y esto incentivó a los loriqueros para convertirla en catedral. Esta conserva las características de tipo religioso con una planta rectangular aunque cuando fue construida las casas curales no eran comunes ya que en esa época predominaban los conventos. La circulación es una organización del tipo lineal donde las bancas de los fieles se ubican a lado y lado de los corredores central y lateral todas mirando hacia el altar mayor. Se cree que es anterior a 1800 a la fecha ha sido remodelada en tres oportunidades: la primera en 1896 la segunda en 1910 y la tercera hacia 1922. Las dos últimas fueron dirigidas por el vicario Lácides C. Bersal quien llegó a Lorica procedente de Cartagena a finales del Siglo XIX. En 1929 se instaló el reloj traído de Italia y donado por la colonia sirio - libanesa. Las campanas fueron traídas de Lisboa y las imágenes de bronce del exterior son de origen francés. ",
+         "fuente":"ALCALDÍA MUNICIPAL DE LORICA. Guion para la Información Turística del Municipio de Lorica (2017).ALCALDÍA MUNICIPAL DE LORICA. Plan Especial de Manejo y Protección del Centro Histórico de Lorica (PEMP): Prediagnóstico (2012).GOBERNACIÓN DE CÓRDOBA. Inventario Turístico Departamental (2009).",
+         "categoria":"Catedral",
+         "assets":[
+            {
+               "recurso":"assets/sonidos/lorica/catedral-lorica.mp3",
+               "tipo":"audio",
+               "descripcion":"Esta la opción de que el usario lea y esta la opción de que el usuario escuhe el audio. Esto es diferente al speaking"
+            }
+         ] 
+      },
+      {
+         "nombre":"Centro Histórico de Lorica",
+         "latlong":[
+            9.2268612,-75.8192571
+         ],
+         "texto":"El Centro Histórico de Lorica está conformado por 19 bienes inmuebles que fueron reconocidos por la resolución No. 0796 del 16 de junio de 2000 del Ministerio de Cultura previo concepto del Consejo de Monumentos Nacionales que además delimitó el área objeto de declaratoria de patrimonio por parte de esa entidad. Se trata de casas construcciones y edificios que corresponden al estilo arquitectónico republicano construidos en la primera mitad del siglo XX en que se destacan casas de familia edificaciones de uso comercial institucional y religioso. El área declarada incluye plazas parques bustos monumentos y el Mercado Público reconocido como Monumento Nacional desde 1996 destacándose entre ellos el Edificio González donde funciona la Alcaldía Municipal la iglesia y el Palacio de las Trece Columnas donde funciona el Concejo Municipal. En el pasado fue objeto de sucesivos incendios e inundaciones estas últimas por los fuertes inviernos que hacían que el Río Sinú creciera e inundara los espacios poblados. El río hace que se destaque por ser una ciudad comercial en un comienzo dependiente de Cartagena desde donde llegan quienes empezaron a construir edificaciones lo cual se fortaleció con la inmigración de Sirio Libaneses en los años 1800 quienes en su mayoría fueron los pioneros de la transformación urbanística sufrida por la ciudad al ser ellos mismos los propietarios de los bienes inmuebles de carácter patrimonial. ",
+         "fuente":"ALCALDÍA MUNICIPAL DE LORICA. Guion para la Información Turística del Municipio de Lorica (2017).ALCALDÍA MUNICIPAL DE LORICA. Plan Especial de Manejo y Protección del Centro Histórico de Lorica (PEMP): Prediagnóstico (2012).GOBERNACIÓN DE CÓRDOBA. Inventario Turístico Departamental (2009).",
+         "categoria":"Centro Histórico",
+         "assets":[
+            {
+               "recurso":"assets/sonidos/lorica/centro-historico-lorica.mp3",
+               "tipo":"audio",
+               "descripcion":"Esta la opción de que el usario lea y esta la opción de que el usuario escuhe el audio. Esto es diferente al speaking"
+            }
+         ] 
+      },
+
+
+      {
+         "nombre":"Mercado Público de Lorica",
+         "latlong":[
+            9.2271579,-75.8197914
+         ],
+         "texto":"Declarado Monumento Nacional en 1996 siendo la más emblemática de las edificaciones del municipio. Dado el carácter de emporio comercial de Lorica por la época de su construcción en 1929 el mercado público se constituyó en un sitio estratégico para el comercio porque por allí entraba toda la mercancía de la región y se cargaba la que salía desde el puerto en todo tipo de embarcaciones con fines comerciales. A finales del Siglo XIX el mercado funcionaba en una construcción rústica conocida popularmente como El Ranchón. La construcción actual en mampostería con cubierta de zinc fue levantada en 1929 por gestión del cura Lácides C. Bersal. Lo conforman cuatro fachadas dos mayores una sobre el Río Sinú y la otra sobre la calle 1 simétricas cada una con quince arcos rebajados y 16 columnas rematadas por un ático con balaustrada en cemento que cuenta con un frontón decorado y un emblema en el que se lee “Mercado Público” en alto relieve. Desde la creación de la red ferroviaria y de carreteras el río perdió importancia como canal de comunicaciones y debido a ello el mercado pasó a ser lugar de venta de artesanías comida típica aliños granos y especias. ",
+         "fuente":"ALCALDÍA MUNICIPAL DE LORICA. Guion para la Información Turística del Municipio de Lorica (2017).ALCALDÍA MUNICIPAL DE LORICA. Plan Especial de Manejo y Protección del Centro Histórico de Lorica (PEMP): Prediagnóstico (2012).GOBERNACIÓN DE CÓRDOBA. Inventario Turístico Departamental (2009).",
+         "categoria":"Mercado Público",
+         "assets":[
+            {
+               "recurso":"assets/sonidos/lorica/mercado-lorica.mp3",
+               "tipo":"audio",
+               "descripcion":"Esta la opción de que el usario lea y esta la opción de que el usuario escuhe el audio. Esto es diferente al speaking"
+            }
+         ] 
+      },
+
+      {
+         "nombre":"Casa Afife Matuk",
+         "latlong":[
+            9.2258439,-75.8188852
+         ],
+         "texto":"El edificio fue construido en concreto por Pedro Barrios en 1929 en él participaron los mismos obreros que hicieron las defensas del Mercado Público del municipio hacia el Río Sinú. De un solo piso cuenta con cuatro fachadas dos sobre la plaza del Pastelillo y dos hacia el río todas rematadas en ático con frontón en cemento decorado y la inscripción en alto relieve del nombre de la edificación en este caso Afife Matuk esposa del propietario Checry S. Fayad conocido comerciante libanés dueño de fábricas de jabón curtiembres ganadero y agente de las embarcaciones Damasco y Sinú que navegaban por el río. Restaurado según el criterio de intervención y conservación arquitectónica integral fue comprado por su actual propietario en el año 2006 a los sucesores de Checry S. Fayad. El bien inmueble fue incluido entre los que hacen parte de la declaratoria de patrimonio del centro histórico por el Ministerio de Cultura.",
+         "fuente":"ALCALDÍA MUNICIPAL DE LORICA. Guión para la Información Turística del Municipio de Lorica. Año 2017.ALCALDÍA MUNICIPAL DE LORICA. Plan Especial de Manejo y Protección del Centro Histórico de Lorica (PEMP): Prediagnóstico. Año 2012.GOBERNACIÓN DE CÓRDOBA. Inventario Turístico Departamental. Año 2009.",
+         "categoria":"Casa Afife Matuk",
+         "assets":[
+            {
+               "recurso":"assets/sonidos/lorica/casa-afife.mp3",
+               "tipo":"audio",
+               "descripcion":"Esta la opción de que el usario lea y esta la opción de que el usuario escuhe el audio. Esto es diferente al speaking"
+            }
+         ] 
+      },
+
+
+      {
+         "nombre":"Monumento a la lengua Castellana - Obelisco",
+         "latlong":[
+            9.2264644,-75.8167134
+         ],
+         "texto":"Este monumento ha sido objeto de obras de urbanismo para mejoramiento integral del entorno. Consta de un obelisco en material de aluminio con una estructura hueca en la que por sus cuatro caras se ven letras del alfabeto árabe en altos relieves que resaltan sobre los elementos verticales del obelisco que se encuentra sobre un pedestal de 80 x 80 centímetros en el que se por sus cuatro caras se observan palabras del idioma español que han sido aportadas por el idioma árabe. El espacio se encuentra sobre un pavimento en adoquines con canecas de basura bancas jardines iluminación nocturna y señalización peatonal al igual que una baranda en madera corrida sobre el borde del Río Sinú y una escalera para el acceso directo desde embarcaciones.",
+         "fuente":"",
+         "categoria":"Monumento",
+         "assets":[
+            {
+               "recurso":"Este monumento ha sido objeto de obras de urbanismo para mejoramiento integral del entorno. Consta de un obelisco en material de aluminio con una estructura hueca en la que por sus cuatro caras se ven letras del alfabeto árabe en altos relieves que resaltan sobre los elementos verticales del obelisco que se encuentra sobre un pedestal de 80 x 80 centímetros en el que se por sus cuatro caras se observan palabras del idioma español que han sido aportadas por el idioma árabe. El espacio se encuentra sobre un pavimento en adoquines con canecas de basura bancas jardines iluminación nocturna y señalización peatonal al igual que una baranda en madera corrida sobre el borde del Río Sinú y una escalera para el acceso directo desde embarcaciones.",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ] 
+      }  
+   ],
+
+    "regionEnMapaPoligono": [
+      [9.224742970663824, -75.83619752561427],
+      [9.225582771713043, -75.81198727129664],
+      [9.228082601535924, -75.80438947626087],
+      [9.233168407507213, -75.80587410287706],
+      [9.242133039323713, -75.80290484964469],
+      [9.259222587940481, -75.81293741000079],
+      [9.260832118983588, -75.8179155897262],
+      [9.258883738360534, -75.82392373767063],
+      [9.250835964847195, -75.8204905102738],
+      [9.248294524426287, -75.82392373767063],
+      [9.237366121512624, -75.82812944123174],
+      [9.234824583861243, -75.82469621383491],
+      [9.227877620771249, -75.83602586424443],
+      [9.224827691303256, -75.8359400335595]
+      
+    ],
+
+    "actividades":[
+      {
+        "nombre": "Visita al Centro ecoturístico y de conservación de vida silvestre “ECONBIBA”",
+        "latlong": [9.1336035,-75.8428398],
+        "texto": "Reseña: En la ciénaga de Bañó se encuentra un proyecto importante de turismo comunitario, que promueve la conservación de la tortuga de rio, especie en vía de extinción, y otras actividades en pro de la sostenibilidad ambiental y económica de la comunidad. Cómo llegar: A 11 km del centro urbano del municipio de Santa Cruz de Lorica. En el corregimiento de Cotocá Arriba. Información de contacto: Corregimiento Cotocá Arriba. Teléfono 321510371 Correo electrónico: econbiba@gmail.com – info@econbiba.com ",
+        "fuente": "",
+        "tipo": "Actividad 1",
+        "descripción": "Cuando pase cerca al punto que le envíe una notificación de una actividad opcional"
+      },
+      {
+        "nombre": "Visita a la casa taller del pintor primitivista Marcial Alegría",
+        "latlong": [9.2319231,-75.8074801], 
+        "texto": "Reseña: Conoce al hijo consentido de San Sebastián de Urabá, el pintor primitivista Marcial Alegría, en su tradicional espacio de creación de sus obras artísticas en su casa taller, donde se podrá apreciar el trabajo artístico sobre madera, lienzos y piezas de alfarería con las características pinturas de aceite y pinceles de pelo de gato que el mismo elabora. Cómo llegar: A 8 km del centro urbano del municipio de Santa Cruz de Lorica. Información de contacto: Corregimiento San Sebastián de Urabá. Teléfono XXXXXXXXX Correo electrónico:",
+        "fuente": "",
+        "tipo": "Actividad 2",
+        "descripción": "Cuando pase cerca al punto que le envíe una notificación de una actividad opcional"
+      }
+    ]  
+
+  }

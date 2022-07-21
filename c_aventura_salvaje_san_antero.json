@@ -1,0 +1,181 @@
+{
+   "nombre":"AVENTURA SALVAJE - SAN ANTERO",
+   "acercaDe": "En este recorrido se podrá visitar el centro de conservación ASOCAIMAN, la cual es una asociación integrada por antiguos cazadores de esta especie que dejaron de lado la cacería para convertirse en conservadores del caimán de aguja. También podrá hacer un recorrido por los manglares de la Bahía de Cispatá, en este lugar se conservan más de 14.000 hectáreas de manglares, por último, podrá disfrutar de las hermosas y encantadoras playas de San Antero, como Playa Blanca y Punta Bolívar.",
+   "recorrido":[
+      {
+         "nombre":"Bienvenidos a San Antero - Letras de la Ciudad",
+         "latlong":[
+            9.3726536,-75.7628944,17
+         ],
+         "texto":"Bienvenidos a San Antero",
+         "fuente":"",
+         "categoria":"Letras de bienvenida",
+         "assets":[
+            {
+               "recurso":"",
+               "tipo":"",
+               "descripcion":""
+            }
+         ],
+         "events":{
+            
+         }
+      },
+      {
+         "nombre":"Monumento al Festival del Burro",
+         "latlong":[
+            9.3753081,-75.7547225
+         ],
+         "texto":"Celebración pintoresca y singular que se lleva a cabo todos los años durante los días de Semana Santa en el municipio de San Antero, donde el principal atractivo es el desfile de burros disfrazados, pero también la realización de concursos de danza y comparsa, presentaciones folclóricas de decimeros, bandas de viento, conjuntos de pitos y tambores, cantos de vaquería, entre otros. Los antecedentes del evento se encuentran en la quema de Judas Iscariote representado en un muñeco montado en burro que recorría la población el sábado de Gloria en que los asistentes aperaban sus burros de trabajo y acompañaban el cortejo. Desde 1987 el evento tiene el actual enfoque en que se realizan desfiles y concurso de burros disfrazados y corcoveos carreras pollinos y estampa. Se presentan también imitadores de los sonidos del burro y otros animales de trabajo el cierre es el domingo de resurrección con la presentación de reconocidos artistas de renombre nacional. Con el festival se pretende exaltar la importancia de este noble y querido animal en el trabajo para los campesinos de la región y el municipio de geografía quebrada en que es de gran ayuda en la zona rural. En 2019 llega a la versión 32 y si bien en los últimos años el burro ha venido siendo sustituido por la moto encontrándose cada vez menos cantidad de estos animales eso no ha influido en el interés y afecto que genera el evento en los habitantes estando cada año más arraigado en la comunidad logrando atraer cientos de visitantes. Los disfraces de los burros son acordes a hechos de importancia o de moda noticias pasajes literarios personajes destacándose el burromóvil preservando los manglares la niña Emilia o Maburro.",
+         "fuente":"GOBERNACIÓN DE SUCRE. Inventario Turístico Departamental (2009).",
+         "categoria":"Monumento",
+         "assets":[
+            {
+               "recurso":"",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ],
+         "events":{
+            
+         }
+      },
+      {
+         "nombre":"Playa Blanca",
+         "latlong":[
+            9.3830833,-75.7740762
+         ],
+         "texto":"Es una playa de arena blanca como su nombre lo dice y de grano grueso lo que indica que es de formación coralina. De una longitud cercana a los 6 kilómetros y con ancho variable que va desde unos 20 metros hasta lugares en que no hay sino 1 metro por efectos de la erosión. El extremo norte se conoce como el sector de La Viuda la parte más larga y popular llena de hoteles es conocida como Playa Blanca, un tercer sector prácticamente sin playas donde se encuentran cabañas de buen formato, y una parte final cerca de la Bahía de Cispatá denominada sector restaurante Bucanero. En varios sitios hay cambio de color en la arena de la playa debido a proyectos de control de la erosión mediante dragado en que la arena negruzca generó las variaciones. De norte a sur hay una vía que bordea la playa, pero se interrumpe en tramos por la erosión.",
+         "fuente":"",
+         "categoria":"Playas",
+         "assets":[
+            {
+               "recurso":"",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ],
+         "events":{
+            
+         }
+      },
+      {
+         "nombre":"Playa Grau",
+         "latlong":[
+            9.3830833,-75.7740762
+         ],
+         "texto":"Playa de arena grisácea clara de unos 800 metros de largo y ancho desde 4 metros hasta 15 y 20 metros en algunos sectores. Comienza en el sector Cooeducord y termina en el Caño Grau que se encuentra caminando hacia el sur.  Se observan carpas organizadas a baja altura para no obstruir la visual, así como aquellas de mayor altura que no se desmontan. De alto valor paisajístico por la quietud tranquilidad y color de sus aguas y la biodiversidad que se aprecia por la zona de manglares del Caño Grau.",
+         "fuente":"",
+         "categoria":"Playas",
+         "assets":[
+            {
+               "recurso":"",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ],
+         "events":{
+            
+         }
+      },
+      {
+         "nombre":"Playa Punta Bolívar",
+         "latlong":[
+            9.4134702,-75.7277268
+         ],
+         "texto": "Playa de arena gris clara de unos 2 kilómetros de longitud desde la desembocadura del arroyo Grau en la parte norte hasta el sector Palancá en sus límites al sur donde se encuentra un caño con este nombre que ha sido canalizado por particulares. En este sector hay cabañas y casas fincas privadas que cuidan sus frentes de mar algunos muy amplios de unos 20 metros, en otros ya no hay playas. Empiezan a aparecer sectores con manglares que enriquecen el paisaje playero introduciendo valores de biodiversidad propios de esta clase de bosque con su vegetación y aguas quietas salobres estuarinas. El sector donde la playa es ancha cuenta con carpas organizadas. En general toda esta playa es de alto valor paisajístico el color del mar es muy azul y son de poco oleaje. Advertencia: En estas playas no se cuenta con salvavidas, existe poca señalización y puntos de información turística.",
+         "fuente": "",
+         "categoria":"Playas",
+         "assets":[
+            {
+               "recurso":"Playa de arena gris clara de unos 2 kilómetros de longitud desde la desembocadura del arroyo Grau en la parte norte hasta el sector Palancá en sus límites al sur donde se encuentra un caño con este nombre que ha sido canalizado por particulares. En este sector hay cabañas y casas fincas privadas que cuidan sus frentes de mar algunos muy amplios de unos 20 metros, en otros ya no hay playas. Empiezan a aparecer sectores con manglares que enriquecen el paisaje playero introduciendo valores de biodiversidad propios de esta clase de bosque con su vegetación y aguas quietas salobres estuarinas. El sector donde la playa es ancha cuenta con carpas organizadas. En general toda esta playa es de alto valor paisajístico el color del mar es muy azul y son de poco oleaje. Advertencia: En estas playas no se cuenta con salvavidas, existe poca señalización y puntos de información turística.",
+               "fuente": "",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ],
+         "events":{
+            
+         }
+      },
+
+
+      {
+         "nombre":"Visita al Centro de conservación ASOCAIMÁN",
+         "latlong":[
+            9.3948903,-75.7834052
+         ],
+         "texto": "Recorrido por el centro de conservación y cría comunitaria del caimán aguja",
+         "fuente": "",
+         "categoria":"Centro de conservación",
+         "assets":[
+            {
+               "recurso":"https://www.youtube.com/watch?v=2v9QJu-WotI",
+               "tipo":"maker",
+               "descripcion":"Aquí va un maker con un video"
+            }
+         ],
+         "events":{
+            
+         }
+      },
+
+      {
+         "nombre":"Recorrido por los manglares de la Bahía de Cispatá",
+         "latlong":[
+            9.3948903,-75.7834052
+         ],
+         "texto": "Recorrido en lancha, para apreciar las especies vegetales y animales que se encuentran en la zona, en donde prevalecen grandes bosques de manglares",
+         "fuente":"",
+         "categoria": "´Recorrido turístico - manglares",
+         "assets":[
+            {
+               "recurso":"https://www.youtube.com/watch?v=2v9QJu-WotI",
+               "tipo":"maker",
+               "descripcion":"Aquí va un maker con un video"
+            }
+         ] 
+      }
+
+
+   ],
+  
+    "regionEnMapaPoligono": [
+      [9.37335045357803, -75.76966285450307],
+      [9.37216486607085, -75.76348304518879],
+      [9.370555847977526, -75.76301097642173],
+      [9.36992070720378, -75.76352596053124],
+      [9.370259449094355, -75.76245307696975],
+      [9.367845905913565, -75.76090812464118],
+      [9.369073851031578, -75.75867652683324],
+      [9.368862136665832, -75.75700282847728],
+      [9.37106395975999, -75.7543849925872],
+      [9.372842345142237, -75.75588702957332],
+      [9.372630633074456, -75.75468539998444],
+      [9.374197299318116, -75.75442790792967],
+      [9.37335045357803, -75.75627326765546],
+      [9.380590917950263, -75.75562953751856],
+      [9.378643205548936, -75.75704574381975],
+      [9.380590917950263, -75.75562953751856],
+      [9.381649452711294, -75.75803279669633],
+      [9.38037921061035, -75.75974941039473],
+      [9.37597566864622, -75.7595777490249],
+      [9.373439383083397, -75.7608437490682],
+      [9.372696284282863, -75.76265904399693],
+      [9.373286952689908, -75.76271697894147],
+      [9.373458436877886, -75.7653240514455],
+      [9.374068157748955, -75.7695533023965]
+
+      
+    ],
+    "actividades": [
+      {
+        "nombre": "Visita al museo del Calabazo",
+        "latlong": [9.3675663,-75.7632168],
+        "texto": "Reseña: Más que un museo, es una tienda tradicional de artesanías locales que reúne gran variedad de elementos artesanales que expresan toda la riqueza tangible e intangible inspirados en el folclor local y el ambiente natural. El visitante podrá conectarse con el pasado a través de la preservación de especies vegetales, especialmente totumos y calabazos, apreciando la identidad cultural ancestral, el ecosistema y las artesanías.Cómo llegar: Sobre la Troncal del Caribe, en la vía San Antero-Coveñas. Información de contacto: San Antero, Córdoba. Teléfono 300-3789733 Correo electrónico: museodelcalabazocolombia@gmail.com",
+        "fuente": "",
+        "tipo": "Actividad 1",
+        "descripción": "Cuando pase cerca al punto que le envíe una notificación de una actividad opcional"
+      }
+    ]  
+  }

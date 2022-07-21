@@ -1,0 +1,136 @@
+{
+   "nombre":"AGUAS Y COLORES - SAN BERNARDO DEL VIENTO",
+   "acercaDe": "Durante este circuito turístico, el visitante podrá interactuar con diferentes recursos acuáticos; en el municipio de San Bernardo del Viento, zona costanera del departamento de Córdoba, se puede realizar un recorrido por el majestuoso Río Sinú, hacia la desembocadura en Boca de Tinajones, pero 12 kilómetros antes, al ingresar por la antigua desembocadura de este afluente hace más de 60 años, se encuentra un lugar mágico donde se mezcla la naturaleza, un cuerpo de agua llamado Caño Grande.",
+   "recorrido":[
+      {
+         "nombre":"Inicio Recorrido",
+         "latlong":[
+            9.3422057,-75.9531512
+         ],
+         "texto":"Bienvenidos a San Bernardo del Viento",
+         "fuente":"",
+         "categoria":"Ubicación",
+         "assets":[
+            {
+               "recurso":"https://www.youtube.com/watch?v=ORyHzh0cj_o",
+               "tipo":"video",
+               "descripcion":"Material multimedia promocionando San Berbardo del Viento. Se activa cerca a las coordenadas, define un radio de 1 km"
+            }
+         ],
+         "events":{
+            
+         }
+      },
+      {
+         "nombre":"Punto de información viajes caño Grande y desembocadura del río Sinú",
+         "latlong":[
+            9.3542838,-75.9550141
+         ],
+         "texto":"Preguntar por más información cuando llegue al sitio",
+         "fuente":"",
+         "categoria":"Información",
+         "assets":[
+            {
+               "recurso":"Preguntar por más información cuando llegue al sitio",
+               "tipo":"speaking",
+               "descripcion":"este es un punto de información"
+            }
+         ],
+         "events":{
+            
+         }
+      },
+      {
+         "nombre":"Recorrido por caño Grande",
+         "latlong":[
+            9.395482,-75.834754
+         ],
+         "texto":"Recorrido en lancha, a través de un canal natural que fue la antigua desembocadura del rio Sinú, en donde se podrá observar gran variedad de aves y diferentes ecosistemas rodeados de manglares, controlados y vigilados por campesinos locales. Tiene una extensión de aproximadamente 16 kilómetros iniciando desde el punto que se encuentra con el río hasta la Bahía de Cispatá.",
+         "fuente": "Información de contacto: Para hacer cualquiera de las actividades en este circuito, primero debe coordinar el servicio de transporte acuático y guía para los recorridos. Se debe llegar por vía terrestre hasta el puerto de embarque Puerto Mujeres, o más conocido como “Puerto chucha”. ASPRACAG: Asociación productores agrícolas de Caño Grande. Jesus Espitia Blanquicet. Celular: 3XXXXXXXX",
+         "categoria":"Sitio turístico - caño Grande",
+         "assets":[
+            {
+               "recurso":"Recorrido en lancha, a través de un canal natural que fue la antigua desembocadura del rio Sinú, en donde se podrá observar gran variedad de aves y diferentes ecosistemas rodeados de manglares, controlados y vigilados por campesinos locales. Tiene una extensión de aproximadamente 16 kilómetros iniciando desde el punto que se encuentra con el río hasta la Bahía de Cispatá.",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ],
+         "events":{
+            
+         }
+      },
+      {
+         "nombre":"Recorrido a la desembocadura del río Sinú",
+         "latlong":[
+            9.446935,-75.922827
+         ],
+         "texto": "La boca de Tinajones es la primera de las tres que formó el Río Sinú para desembocar al mar después de cambiar su desembocadura inicial en la bahía de Cispatá el 13 de junio de 1942. El lugar se denominaba la Vuelta de Tinajones (o Tinajón por la figura que formaba) y era el sitio en que el río con rumbo norte se acercaba más al mar antes de girar al oeste hacia Cispatá. En ese lugar los pescadores abrieron un canal para comunicar el río con el mar denominado “la zanjita” que a la postre fue por donde el río desbarrancó las orillas y abrió una nueva y ancha boca al mar Caribe manteniendo algunos años ambas bocas. Hubo varios intentos de cerrar Tinajones mediante dragados en los años 1943, 1954, 1960 y 1964; todas infructuosas porque ya el río había cambiado definitivamente y empezado a formar su delta considerado como el de mayor dinamismo del país. Tiene un bosque de manglar asociado con variedades como rojo, negro, humo, bobo, piñuelo y Zaragoza. También 221 especies de aves 35 de ellas migratorias entre las que destacan la garza colorada, el chavarrí, el chamón del Caribe, el vaco cabecinegro, la esperalda piquirroja, el batará carcajada y la guacharaca caribeña.",
+         "fuente": "Información de contacto: Para hacer cualquiera de las actividades en este circuito, primero debe coordinar el servicio de transporte acuático y guía para los recorridos. Se debe llegar por vía terrestre hasta el puerto de embarque Puerto Mujeres, o más conocido como “Puerto chucha”. ASPRACAG: Asociación productores agrícolas de Caño Grande. Jesus Espitia Blanquicet. Celular: 3XXXXXXXX",
+         "categoria": "Sitio turístico - desembocadura río Sinú",
+         "assets":[
+            {
+               "recurso":"La boca de Tinajones es la primera de las tres que formó el Río Sinú para desembocar al mar después de cambiar su desembocadura inicial en la bahía de Cispatá el 13 de junio de 1942. El lugar se denominaba la Vuelta de Tinajones (o Tinajón por la figura que formaba) y era el sitio en que el río con rumbo norte se acercaba más al mar antes de girar al oeste hacia Cispatá. En ese lugar los pescadores abrieron un canal para comunicar el río con el mar denominado “la zanjita” que a la postre fue por donde el río desbarrancó las orillas y abrió una nueva y ancha boca al mar Caribe manteniendo algunos años ambas bocas. Hubo varios intentos de cerrar Tinajones mediante dragados en los años 1943, 1954, 1960 y 1964; todas infructuosas porque ya el río había cambiado definitivamente y empezado a formar su delta considerado como el de mayor dinamismo del país. Tiene un bosque de manglar asociado con variedades como rojo, negro, humo, bobo, piñuelo y Zaragoza. También 221 especies de aves 35 de ellas migratorias entre las que destacan la garza colorada, el chavarrí, el chamón del Caribe, el vaco cabecinegro, la esperalda piquirroja, el batará carcajada y la guacharaca caribeña.",
+               "tipo":"speaking",
+               "descripcion":"Audio y texto con la descripción del atractivo. Que de texto se pase a audio y que el usuario escoja escuchar o leer."
+            }
+         ] 
+      }
+
+   ],
+    "regionEnMapaPoligono": [
+      [9.350684894793016, -75.95836772258853],
+      [9.349245158403997, -75.95459117245203],
+      [9.345518754211119, -75.9536470349179],
+      [9.34547640847971, -75.955706971356],
+      [9.343443807314959, -75.95536364861631],
+      [9.341538232865588, -75.95304622001323],
+      [9.342088733198198, -75.95107211426006],
+      [9.344290725826758, -75.95223082850649],
+      [9.344248379945991, -75.95296038932831],
+      [9.349541575124164, -75.95356120412275],
+      [9.34886405063357, -75.9510291989176],
+      [9.353896928136988, -75.94902644397293],
+      [9.35645683135745, -75.94972909656379],
+      [9.359656683721605, -75.9485399921451],
+      [9.36061663368758, -75.94899941885231],
+      [9.357470121125711, -75.95291805841393],
+      [9.359390030482801, -75.95483684054409],
+      [9.360376646444623, -75.95818795299678],
+      [9.359923336755848, -75.95837712869975],
+      [9.358003430343967, -75.95810687769551],
+      [9.355256879129039, -75.95767447608871],
+      [9.354856894132832, -75.95602594496279],
+      [9.353203617935208, -75.95564759355685],
+      [9.350803686892714, -75.95826902829806]
+
+      
+    ],
+    "actividades": [
+        {
+          "nombre": "Playas de la Ye",
+          "latlong": [9.3514686,-76.0266131],
+          "texto": "Reseña: En esta zona de playa se encuentra el muelle turístico, aunque en realidad es una estructura tipo mirador. Es una franja de playas de 20 a 30 metros de ancho y aproximadamente 1 kilómetro de longitud de arena gris, donde se encuentran diferentes establecimientos para el consumo de alimentos y bebidas, así como lugares de alojamiento. Cómo llegar: En dirección hacia el Municipio de Moñitos en sentido oeste por la Troncal del Caribe se recorren 8 kilómetros hasta el punto donde se gira al oeste y se avanza 1 kilómetro por una vía nueva pavimentada y con amoblamiento hasta llegar a la playa.",
+          "fuente": "",
+          "tipo": "Actividad 1",
+          "descripción": "Cuando pase cerca al punto que le envíe una notificación de una actividad opcional. Rango de 1 km."
+        },
+        {
+          "nombre": "Recorrido por el Caño La Balsa",
+          "latlong": [9.3444972,-76.0090666], 
+          "texto": "Reseña:  El recorrido en canoas artesanales conducidas por vaquianos es una experiencia donde se vive una conexión real con la naturaleza, siendo el mangle la vegetación preponderante en el tramo que se acerca hacia la desembocadura del río aproximadamente a 2 kilómetros donde el agua es salobre como el de las ciénagas estuarinas. Se observa típica fauna de manglares ya que alberga garzas blancas grises y patos. Cómo llegar: Terrestre: Desde el Parque Central del municipio de San Bernardo se toma la Troncal del Caribe por la calle 9 recorriendo 3 kilómetros sentido oeste hacia el Municipio de Moñitos hasta llegar al puente La Balsa. Acuático: Desde la desembocadura del caño.",
+          "fuente": "",
+          "tipo": "Actividad 2",
+          "descripción": "Cuando pase cerca al punto que le envíe una notificación de una actividad opcional. Rango de 1 km."
+   
+        },
+        {
+          "nombre": "Festival de Surfing",
+          "latlong": [], 
+          "texto": "Reseña: Evento deportivo de nivel nacional liderado por la Alcaldía de San Bernardo del Viento, la Liga de Surf de Córdoba y la Federación Colombiana de Surf, que se realiza durante la tercera semana del mes marzo, donde se compite en las disciplinas de: shortboard, longboard, sup y bodyboard, en las categorías femenina y masculina. Cómo llegar: En dirección hacia el Municipio de Moñitos en sentido oeste por la Troncal del Caribe se recorren 8 kilómetros hasta el punto donde se gira al oeste y se avanza 1 kilómetro por una vía nueva pavimentada y con amoblamiento hasta llegar a la playa",
+          "fuente": "",
+          "tipo": "Actividad 3",
+          "descripción": "Cuando pase cerca al punto que le envíe una notificación de una actividad opcional"
+        }
+        
+      ]  
+  }

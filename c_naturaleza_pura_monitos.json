@@ -1,0 +1,87 @@
+{
+   "nombre":"NATURALEZA PURA - MOÑITOS",
+   "acercaDe": "En el municipio de Moñitos, se podrán visitar grandes y extensas playas sin turismo masivo, donde fácilmente se puede crear una conexión con la naturaleza y con el ser; Moñitos alberga un hermoso lugar llamado Viento Solar; en el cual se manifiesta la belleza de la madre tierra. Aquí la playa, brisa y mar tienen sus propios colores, que contrastan con los del exuberante bosque seco tropical, donde se encuentran árboles como La Bonga, de preferencia de los osos perezosos que descansan y se alimentan de estos gigantes. La paz y tranquilidad se respira por todas partes.  Viento Solar es una reserva natural situada en la bahía de Playa Larga, Río Cedro. También en este circuito el visitante tiene la oportunidad de visitar el muelle turístico y sus hermosas playas.",
+   "recorrido":[
+      {
+         "nombre":"Isla Fuerte",
+         "latlong":[
+            9.3262398,-76.0907812
+         ],
+         "texto": "Vive una experiencia exótica, en uno de los lugares más hermosos del Caribe. Llega al corregimiento Paso Nuevo y de ahí tomas una lancha a Isla Fuerte, en 25 minutos estarás disfrutando de las playas, la comida y demás atractivos de la Isla.",
+         "fuente":"",
+         "categoria":"Sitio Turístico - Isla",
+         "assets":[
+            {
+               "recurso":"https://www.youtube.com/watch?v=wbvlHkqDn08",
+               "tipo":"video",
+               "descripcion":"Material multimedia promocionando. Se activa cerca a las coordenadas, define un radio de 4 km"
+            }
+         ],
+         "events":{
+            
+         }
+      },
+      {
+         "nombre":"Reserva natural Viento Solar",
+         "latlong":[
+            9.17434,-76.1582458
+         ],
+         "texto": "Es una reserva de la sociedad civil, caracterizada por la gran variedad de flora y fauna que allí habita, constituida desde hace más de 30 años, propendiendo por la conservación y preservación de especies nativas de flora y fauna, con un área aproximada de franja de playa de 100 metros y un área total de 500 hectáreas. El turismo de naturaleza se patenta en este lugar ya que ofrece un recorrido de aproximadamente 4 kilómetros bordeados de una vasta zona de manglares dentro de los que se destacan especies como Mangle negro (Avicennia germinans), Mangle rojo (Rizophora mangle), Manqle Zaraqoza (Conocarpus erecta) y mangle blanco (Laguncularia racernosa); además de otras especies como bongas, campanos, sangregaos y palmitos; entre otros, que permiten disfrutar de la flora y fauna del sitio, en un cayac o una canoa artesanal ala largo de todo el recorrido. Otras actividades que se pueden desarrollar en este lugar están: Ecoguianza: Conducida por jóvenes vaquianos conocedores de la fauna y flora silvestre y de los caminos ancestrales que interconectan los diferentes poblados.Canotaje: Se presta el servicio de alquiler de canoas y ecoguías para disfrutar del recorrido por el Río Mangle. Cabalgatas: Recorriendo caminos ancestrales que conectan las diferentes veredas del territorio área de influencia de la Fundación Viento solar.Paseos Marinos: La Fundación Viento solar, presta el servicio de alquiler de lanchas con destinos variados como son a Isla Fuerte, Isla Tortuguilla, La Rada, etc. Talleres de talla de totumo: Por nativos de la región expertos en la talla del totumo.",
+         "fuente": "Cómo llegar: Situada en la parte litoral del corregimiento de Rio Cedro en el Municipio de Moñitos, cuenta con dos vías de acceso, una terrestre de aproximadamente una hora y la otra marítima en un recorrido de aproximadamente 20 minutos desde el centro de la zona urbana de Moñitos. Advertencia: El acceso por vía terrestre hasta la Reserva es dificultoso por el estado actual de la vía, y requiere de vehículos con doble tracción. Existe la opción de llegar a la Reserva por vía acuática, para lo cual se debe tomar el transporte en las playas del Muelle.",
+         "categoria": "Reserva natural",
+         "assets":[
+            {
+               "recurso":"https://www.youtube.com/watch?v=xQKiUHQFXjw",
+               "tipo":"video",
+               "descripcion":"Material multimedia promocionando. Se activa cerca a las coordenadas cuanod este a un radio de un kilometro de estás coordenadas: 9.2464241,-76.1328402 "
+
+            }
+         ]
+      }      
+
+   ],
+  "regionEnMapaPoligono": [
+      [9.243272049052432, -76.1385004288795],
+      [9.240455224284743, -76.13622591572911],
+      [9.242424886078187, -76.13564655860588],
+      [9.244352178888166, -76.1328785190172],
+      [9.244775758311242, -76.13167688942832],
+      [9.244775758311242, -76.13167688942832],
+      [9.242933184107354, -76.13032505614082],
+      [9.244500431744223, -76.1306683788805],
+      [9.244563968663423, -76.13004610641482],
+      [9.244161567981497, -76.12953112230531],
+      [9.245453484327992, -76.1289517651821],
+      [9.246406534331262, -76.1256901991551],
+      [9.2470842572079, -76.12607643723726],
+      [9.247105436026759, -76.12444565422376],
+      [9.249867652954944, -76.12490904077075],
+      [9.252854448459148, -76.12107964324494],
+      [9.253260060707387, -76.1214158830277],
+      [9.252098533475568, -76.12255536229146],
+      [9.249056420167207, -76.12868239833276],
+      [9.24335930074059, -76.1383959923764]
+    ],
+    "actividades":[
+      {
+        "nombre": "Visita al muelle turístico",
+        "latlong": [9.2464241,-76.1328402],
+        "texto": "El municipio de Moñitos cuenta con un Muelle Turístico que adorna y engalana las olas del mar Caribe, es uno de los sitios propicios para disfrutar y sentir esa armonía de emociones que se despiertan cuando se divisa el atardecer con su paleta de colores pintando el cielo de mágicos y hermosos colores.",
+        "fuente": "",
+        "tipo": "Actividad 1",
+        "descripción": "Cuando pase cerca al punto que le envíe una notificación de una actividad opcional. Rango de 20m."
+      },
+      {
+        "nombre": "Playas del muelle",
+        "latlong": [9.247001, -76.131609], 
+        "texto": "Estas playas tienen una longitud aproximada de 5 kilómetros de largo y entre 15 y 25 metros de ancho, con características de mar abierto, con aguas cálidas y de arena gris. Las olas pegan con fuerza todo el tiempo siendo menos altas en las horas de la mañana por la baja velocidad del viento y las pocas corrientes. La vegetación la integran cocoteros, palmeras, almendros y arbustos de bosque seco tropical. Se aprecian huecos de cangrejo azul que permanecen escondidos durante el día. Cómo llegar: Carrera 1ª- Sector playa. Saliendo del parque central por la calle 22 B con rumbo nor-noroeste se avanzan unos 100 mts hasta llegar a la playa en el sector del muelle turístico.",
+        "fuente": "",
+        "tipo": "Actividad 2",
+        "descripción": "Cuando pase cerca al punto que le envíe una notificación de una actividad opcional. Rango de 500m."
+      }
+      
+    ]  
+
+
+
+  }
