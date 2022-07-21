@@ -10,5 +10,225 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "Monteria":{
+   "nombre":"MEMORIAS DEL SINÚ - MONTERÍA",
+   "acercaDe":"En este recorrido se podrá disfrutar de la naturaleza e historia entorno al río Sinú realizando caminatas matutinas o vespertinas por el parque lineal Ronda del Sinú a orillas del río y encontrarse con una diversidad de flora de bosque seco tropical y fauna silvestre de la zona como iguanas, perezosos, ardillas y monos colorados aulladores. Así mismo, a una hora de Montería se podrá encontrar el municipio de Santa Cruz de Lorica, primera capital del departamento de Córdoba, donde el visitante podrá observar los vestigios históricos del desarrollo político y comercial del departamento.",
+   "recorrido":[
+      {
+         "nombre":"Inicio Recorrido",
+         "latlong":[
+            8.753839059138055,
+            -75.89013972883616
+         ],
+         "texto":"",
+         "fuente":"",
+         "categoria":"inicio",
+         "assets":[
+            {
+               "recurso":"assets/sonidos_monteria/RondadelSinuMonteria.mp3",
+               "tipo":"audio",
+               "descripcion":"Botón de audio guía para reproducir INFORMACIÓN SOBRE LA RONDA - solo audio"
+            }
+         ],
+         "events":{
+
+         }
+      },
+      {
+         "nombre":"Monumento a Antonio de la Torre y Miranda:",
+         "latlong":[
+            8.756528635946122,
+            -75.88785693663175
+         ],
+         "texto":"Obra que data de 1998 consta de una estatua idéntica a todas las que se encuentran en los municipios y ciudades del Sinú y la Sabana que fueron fundados o refundados por Antonio de la Torre y Miranda la figura lo muestra con bastón de mando sombrero y maletín terciado al hombro a la usanza de esa época. Se trata de una estatua de tamaño natural de bronce sobre un pedestal de mampostería y mármol 2mts de alto con una placa conmemorativa.",
+         "fuente":"http://www.cordoba.gov.co/cordobavivedigital/cordoba_monteria.html",
+         "categoria":"Monumentos",
+         "assets":[
+            {
+               "recurso":"Obra que data de 1998 consta de una estatua idéntica a todas las que se encuentran en los municipios y ciudades del Sinú y la Sabana que fueron fundados o refundados por Antonio de la Torre y Miranda la figura lo muestra con bastón de mando sombrero y maletín terciado al hombro a la usanza de esa época. Se trata de una estatua de tamaño natural de bronce sobre un pedestal de mampostería y mármol 2mts de alto con una placa conmemorativa.",
+               "tipo":"speaking",
+               "descripcion":"Podemos tomar esta imagen y que ellos interactuen con la cámara para que les muestre la información. Pendiente una imagen de mejor resolución"
+            }
+         ],
+         "events":{
+
+         }
+      },
+      {
+         "nombre":"Catedral San Jerónimo",
+         "latlong":[
+            8.755529512768893,
+            -75.88665150265915
+         ],
+         "texto":"La Catedral San Jerónimo es una construcción que data de principios del siglo XX y mezcla estilos arquitectónicos como el gótico y el republicano los cuales se expresan a través de los muros en ladrillo las cubiertas en madera las columnas y la fachada desde la que se puede apreciar los arcos con estatuas que representan a Jesús y María una claraboya un campanario central y ventanales con elementos decorativos propios de la época. Funciona como la sede principal de la Diócesis de Montería que alberga cerca de 70 parroquias en todo el Departamento de Córdoba.",
+         "fuente":"Alcaldía de Montería. Estudio sobre el patrimonio inmueble y propuesta de la declaratoria del centro tradicional de Montería y su área de influencia como Bien de Interés Cultural – BIC del ámbito municipal. Año 2016.",
+         "categoria":"Catedral",
+         "assets":[
+            {
+               "recurso":"La Catedral San Jerónimo es una construcción que data de principios del siglo XX y mezcla estilos arquitectónicos como el gótico y el republicano los cuales se expresan a través de los muros en ladrillo las cubiertas en madera las columnas y la fachada desde la que se puede apreciar los arcos con estatuas que representan a Jesús y María una claraboya un campanario central y ventanales con elementos decorativos propios de la época. Funciona como la sede principal de la Diócesis de Montería que alberga cerca de 70 parroquias en todo el Departamento de Córdoba.",
+               "tipo":"speaking",
+               "descripcion":"Podemos tomar esta imagen y que ellos interactuen con la cámara para que les muestre la información. Pendiente una imagen de mejor resolución"
+            }
+         ],
+         "events":{
+
+         }
+      },
+      {
+         "nombre":"Monumento a Pablito Florez y La Aventurera",
+         "latlong":[
+            8.755677966091126,
+            -75.88663004498703
+         ],
+         "texto":"",
+         "fuente":"",
+         "categoria":"Monumentos",
+         "assets":[
+            {
+               "recurso":"assets/sonidos_monteria/LaAventurera.mp3", 
+               "tipo":"audio",
+               "descripcion":"Al estar a 3 metros que se active por geolocalización el evento para que suene la canción"
+            }
+         ],
+         "events":{
+
+         }
+      },
+      {
+         "nombre":"Monumento al porro María Varilla",
+         "latlong":[
+            8.76219066158976,
+            -75.88400349223218
+         ],
+         "texto":"",
+         "fuente":"",
+         "categoria":"Monumentos",
+         "assets":[
+            {
+               "recurso":"assets/imagenes/monteria/img-maria-varilla.jpg",
+               "tipo":"ra.imagen",
+               "descripcion":"Cuando encuadre la imagen mostrar los siguientes eventos. Nota para el usuario, debe encuadrar todo el monumento."
+            },
+            {
+               "recurso":"assets/sonidos_monteria/PorroMariaVarilla.mp3",
+               "tipo":"ra.audio",
+               "descripcion":"sincronizar este audio para qeu suene cuando se reproduzcan los videos al mismo tiempo"
+            },
+            {
+               "recurso":"assets/videos/monteria/porro-hombre-01.mp4",
+               "tipo":"ra.video",
+               "descripcion":"Este interactua al lado derecho"
+            },
+
+            {
+               "recurso":"assets/videos/monteria/porro-mujer-02.mp4",
+               "tipo":"ra.video",
+               "descripcion":"este interactua al lado izquierdo"
+            },
+
+            {
+               "recurso":"assets/imagenes/monteria/grupo-porro-transparent.png",
+               "tipo":"ra.imagen",
+               "descripcion":"Esta imagen transparente se sobrepone sobre el escenario y las perosnas pueden tomarse la foto y simular que se la tomaron con un grupo de baile en vivo."
+            },
+            {
+               "recurso":"assets/imagenes/monteria/img-maria-varilla.jpg",
+               "tipo":"imagen",
+               "descripcion":"Cuando encuadre la imagen mostrar los siguientes eventos. Nota para el usuario, debe encuadrar todo el monumento."
+            }
+         ] 
+      }
+   ],
+    "regionEnMapaPoligono": [
+      [
+        8.753048692493158,
+        -75.91667331186615
+      ],
+      [
+        8.730269284883146,
+        -75.89904034919864
+      ],
+      [
+        8.7143241378391,
+        -75.88773717767798
+      ],
+      [
+        8.720181617897218,
+        -75.8808235873304
+      ],
+      [
+        8.719964675828866,
+        -75.86973989486839
+      ],
+      [
+        8.734391048839134,
+        -75.85635167229051
+      ],
+      [
+        8.744044475567122,
+        -75.85514453746794
+      ],
+      [
+        8.782436821005525,
+        -75.85350134632786
+      ],
+      [
+        8.804667039606894,
+        -75.84900242234009
+      ],
+      [
+        8.807195097487858,
+        -75.85949991565283
+      ],
+      [
+        8.784093236704031,
+        -75.8736141924745
+      ],
+      [
+        8.767703119073547,
+        -75.8725556216399
+      ],
+      [
+        8.777903436738086,
+        -75.8835824004942
+      ],
+      [
+        8.76482605525252,
+        -75.90395988825134
+      ],
+      [
+        8.753840699379708,
+        -75.91145809732909
+      ]
+    ],
+    "actividades": [
+      {
+        "nombre": "Cruce del río Sinú en Planchón.",
+        "latlong":  [8.7554257,-75.8895352],
+        "texto": "Los planchones sobre el rio Sinú son embarcaciones artesanales que cruzan de orilla a orilla el rio convirtiéndose en medio de transporte para habitantes y actividad turística para visitantes donde pueden contemplar las aguas y admirar los atardeceres que acompañan el paisaje de la ciudad. Cómo llegar: En la avenida primera entre calles 22 y 37 se encuentran los planchones a orilla del rio donde los visitantes pueden acceder...  Necesitamos los puntos de cada planchón. Pendiente. Tarifa por persona: $800 por persona.  Horario: 5:00 am a 8:00 pm",
+        "fuente": "",
+        "tipo": "Actividad 1",
+        "descripción": ""
+      },
+      {
+        "nombre": "Recorrido en lancha por el río Sinú.",
+        "latlong": [8.7640776,-75.8818622], 
+        "texto": "Desde el muelle turístico se puede hacer un tour por el rio Sinú en embarcaciones tipo lanchas motorizadas y catamarán que recorren aguas arriba el rio hasta el punto conocido como Sierra Chiquita y luego retornan al muelle. En este recorrido se aprecia un hermoso paisaje natural y gran variedad de aves y animales que se encuentran entre la vegetación aledaña. Cómo llegar: En el muelle turístico de Montería se encuentra el embarcadero de las lanchas que hacen el recorrido, calle 35 con Av. Primera. Información de contacto: La Lorenza- José Luis Díaz.  Teléfono: 3008985878 Correo electrónico: tourporelriosinu@gmail.com Tarifa: $20.000 por persona – Enlaces externos. Alcatraz Rio Sinú Tours. Teléfono: 330-3864530 Tarifa: $20.000 por persona – Enlaces externos.",
+        "fuente": "",
+        "tipo": "Actividad 2",
+        "descripción": "" 
+      },
+      {
+        "nombre": "Compra de artesanías y dulces típicos en el Centro Cultural Guillermo Valencia Salgado “Compae Goyo”.",
+        "latlong": [8.7620164,-75.8831223], 
+        "texto": "Desde el muelle turístico se puede hacer un tour por el rio Sinú en embarcaciones tipo lanchas motorizadas y catamarán que recorren aguas arriba el rio hasta el punto conocido como Sierra Chiquita y luego retornan al muelle. En este recorrido se aprecia un hermoso paisaje natural y gran variedad de aves y animales que se encuentran entre la vegetación aledaña. Cómo llegar: En el muelle turístico de Montería se encuentra el embarcadero de las lanchas que hacen el recorrido, calle 35 con Av. Primera. Información de contacto: La Lorenza- José Luis Díaz.  Teléfono: 3008985878 Correo electrónico: tourporelriosinu@gmail.com Tarifa: $20.000 por persona – Enlaces externos. Alcatraz Rio Sinú Tours. Teléfono: 330-3864530 Tarifa: $20.000 por persona – Enlaces externos.",
+        "fuente": "",
+        "tipo": "Actividad 3",
+        "descripción": "" 
+      }
+    ]  
+
+
   }
 }
