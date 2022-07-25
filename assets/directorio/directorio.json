@@ -1,0 +1,104 @@
+
+[
+  {
+    "establecimiento":"GHL HOTEL",
+    "servicio":"Alojamiento",
+    "nit":"36890256",
+    "ubicacion":{
+      "departamento":"CORDOBA",
+      "municipio":"Montería",
+      "direccion":"Cl. 44 #No. 8-43",
+      "telefono":"(4) 7892999",
+      "celular":"",
+      "web":"",
+      "correoElectronico":"reservas.monteria@ghlhoteles.com"
+    }
+  },
+  {
+    "establecimiento":"ONOMA HOTEL",
+    "servicio":"Alojamiento",
+    "nit":"23102024",
+    "ubicacion":{
+      "departamento":"CORDOBA",
+      "municipio":"Lorica",
+      "direccion":"Carrera 16 número 1A-19",
+      "telefono":"3201548795",
+      "celular":"",
+      "web":"https://onomahotels.com.co/",
+      "correoElectronico":""
+    }
+  }, 
+  {
+    "establecimiento":"HOTEL CASA\nBLANCA REAL",
+    "servicio":"Alojamiento",
+    "nit":"30665641",
+    "ubicacion":{
+      "departamento":"CORDOBA",
+      "municipio":"Lorica",
+      "direccion":"CR 25 NRO. 10-03",
+      "telefono":"7739524",
+      "celular":"",
+      "web":"",
+      "correoElectronico":"rasabeco73@gmail.com"
+    }
+  },
+  {
+    "establecimiento":"RESTAURANTE",
+    "servicio":"Restaurante y\nTransporte acuático",
+    "nit":"",
+    "ubicacion":{
+      "departamento":"CORDOBA",
+      "municipio":"SAN BERNARDO\nDEL VIENTO",
+      "direccion":"Orilla del rio Sinú, Tinajones",
+      "telefono":"7739524",
+      "celular":"",
+      "web":"",
+      "correoElectronico":"rasabeco73@gmail.com"
+    }
+  },
+  {
+    "establecimiento":"PESCADERIA Y\nRESTAURANTE PESECAR",
+    "servicio":"Alimentación",
+    "nit":"",
+    "ubicacion":{
+      "departamento":"CORDOBA",
+      "municipio":"SAN ANTERO",
+      "direccion":"Vía a Bahía de Cispatá",
+      "telefono":"310 3691562",
+      "celular":"310 3691562",
+      "web":"",
+      "correoElectronico":""
+    }
+  },
+  {
+    "establecimiento":"RESTAURANTE BAR\nMANGLE COLORAO",
+    "servicio":"Alimentación",
+    "nit":"50988424",
+    "ubicacion":{
+      "departamento":"CORDOBA",
+      "municipio":"SAN ANTERO",
+      "direccion":"CLL 11- 32 CASA MAY",
+      "telefono":"3105951929",
+      "celular":"",
+      "web":"",
+      "correoElectronico":"manglecolorao@hotmail.es"
+    }
+  },
+  {
+    "establecimiento":"RESTAURANTE\nEL BOCACHICO ELEGANTE",
+    "servicio":"Alimentación",
+    "nit":"",
+    "ubicacion":{
+      "departamento":"CORDOBA",
+      "municipio":"MONTERIA",
+      "direccion":"Carrera 7 No. 32-67 Centro",
+      "telefono":"57 4 7972535",
+      "celular":"",
+      "web":"",
+      "correoElectronico":"bocachico145@gmail.com"
+    }
+  }
+  
+      
+  ]
+  
